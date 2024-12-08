@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Master of Computer Science, University of Illinois Ubrana-Champaign, 2024
+* Master of Computer Science, University of Illinois Urbana-Champaign, 2024
 * B.E. in Computer Science and Technology, Dalian University of Technology, 2022
 
 <!-- Work experience
