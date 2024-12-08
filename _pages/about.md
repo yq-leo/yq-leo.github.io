@@ -25,7 +25,7 @@ News
   </style>
   <ul>
     <li><strong class='time'>[11/2024]</strong><b> RA@IDEA: </b> I will join IDEA Lab@UIUC in Spring 2025 as a research assistant under the supervision of Professor Hanghang Tong</li>
-    <li><strong class='time'>[07/2024]</strong><b> RA@NCSA: </b> I will join NCSA@UIUC in Fall 2024 as a research assistant under the supervision of Professor Aiman Soliman</li>
+    <li><strong class='time'>[07/2024]</strong><b> RA@NCSA: </b> I will join NCSA@UIUC in Fall 2024 as a research assistant under the supervision of Professor Aiman Soliman and Professor Zeynep Madak-Erdogan</li>
     <li><strong class='time'>[05/2024]</strong><b> Graduation@UIUC: </b>I receive my master's degree from UIUC</li>
   </ul>
 </div>
