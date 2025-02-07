@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About me &#x1F44B;"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,7 +12,7 @@ I'm a research assistant at IDEA Lab@UIUC led by Professor [Hanghang Tong](http:
 
 **Contact**: [qiyu6[AT]illinois.edu](mailto:qiyu6@illinois.edu)
 
-News
+News &#x1F389;
 ======
 <div class='news-container' style="max-height: 300px; overflow: auto; border: 1px solid #ccc; border-radius: 10px; margin: 10px 10px 1.3em 0;">
   <style>
@@ -24,6 +24,7 @@ News
     }
   </style>
   <ul>
+    <li><strong class='time'>[02/2025]</strong><b> PhD@UIUC: </b> I will join IDEA Lab@UIUC as a PhD student under the supervision of Professor <a href="http://tonghanghang.org">Hanghang Tong</a> starting Fall 2025!</li>
     <li><strong class='time'>[01/2025]</strong><b> WWW'25: </b> One paper has been accepted by WWW'25</li>
     <li><strong class='time'>[11/2024]</strong><b> RA@IDEA: </b> I will join IDEA Lab@UIUC in Spring 2025 as a research assistant under the supervision of Professor Hanghang Tong</li>
     <li><strong class='time'>[07/2024]</strong><b> RA@NCSA: </b> I will join NCSA@UIUC in Fall 2024 as a research assistant under the supervision of Professor Aiman Soliman and Professor Zeynep Madak-Erdogan</li>
@@ -31,8 +32,27 @@ News
   </ul>
 </div>
 
-Publications
+Publications &#x1F393;
 ======
-**Qi Yu**, Zhichen Zeng, Yuchen Yan, Lei Ying, R. Srikant, Hanghang Tong. Joint Optimal Transport and Embedding for Network Alignment. In **WWW**'25.
-
-
+<div style="border: 1px solid #ddd; padding: 15px; max-width: 800px; border-radius: 8px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); font-family: -apple-system, Arial, sans-serif; position: relative; margin-bottom: 20px; display: block;">
+    <span style="display: inline-block; background-color: #a043bf; color: white; font-weight: bold; padding: 5px 12px; border-radius: 14px; font-size: 16px;">WWW 2025</span>
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 8px;">
+        <div style="flex: 1;">
+            <div style="font-size: 20px; font-weight: bold;">
+                Joint Optimal Transport and Embedding for Network Alignment
+            </div>
+            <div style="color: #333; font-size: 16px; margin-top: 4px;">
+                Qi Yu, Zhichen Zeng, Yuchen Yan, Lei Ying, R. Srikant, Hanghang Tong.
+            </div>
+            <div style="font-style: italic; color: gray; font-size: 16px; margin-top: 4px;">In WWW 2025</div>
+        </div>
+        <div style="display: flex; flex-direction: column; gap: 5px;">
+            <a href="#" style="padding: 6px 12px; border: 2px solid #000; border-radius: 5px; font-weight: bold; font-size: 14px; text-decoration: none; color: black; background-color: white; transition: 0.3s; text-align: center"
+            onmouseover="this.style.backgroundColor='#a043bf'; this.style.border='2px solid #fff'; this.style.color='#fff'" 
+            onmouseout="this.style.backgroundColor='white'; this.style.border='2px solid #000'; this.style.color='#000'">PDF</a>
+            <a href="https://github.com/yq-leo/JOENA-WWW25" style="padding: 6px 12px; border: 2px solid #000; border-radius: 5px; font-weight: bold; font-size: 14px; text-decoration: none; color: black; background-color: white; transition: 0.3s; text-align: center"
+            onmouseover="this.style.backgroundColor='#a043bf'; this.style.border='2px solid #fff'; this.style.color='#fff'" 
+            onmouseout="this.style.backgroundColor='white'; this.style.border='2px solid #000'; this.style.color='#000'">CODE</a>
+        </div>
+    </div>
+</div>
