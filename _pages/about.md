@@ -47,7 +47,7 @@ Publications &#x1F393;
             <div style="font-style: italic; color: gray; font-size: 16px; margin-top: 4px;">In WWW 2025</div>
         </div>
         <div style="display: flex; flex-direction: column; gap: 5px;">
-            <a href="#" style="padding: 6px 12px; border: 2px solid #000; border-radius: 5px; font-weight: bold; font-size: 14px; text-decoration: none; color: black; background-color: white; transition: 0.3s; text-align: center"
+            <a href="https://arxiv.org/pdf/2502.19334" style="padding: 6px 12px; border: 2px solid #000; border-radius: 5px; font-weight: bold; font-size: 14px; text-decoration: none; color: black; background-color: white; transition: 0.3s; text-align: center"
             onmouseover="this.style.backgroundColor='#a043bf'; this.style.border='2px solid #a043bf'; this.style.color='#fff'" 
             onmouseout="this.style.backgroundColor='white'; this.style.border='2px solid #000'; this.style.color='#000'"
             onmousedown="this.style.backgroundColor='white'; this.style.border='2px solid #000'; this.style.color='#000'">PDF</a>
