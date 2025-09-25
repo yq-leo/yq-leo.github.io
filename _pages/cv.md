@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* Ph.D. in Computer Science, University of Illinois Urbana-Champaign, in progress
 * Master of Computer Science, University of Illinois Urbana-Champaign, 2024
 * B.E. in Computer Science and Technology, Dalian University of Technology, 2022
 
